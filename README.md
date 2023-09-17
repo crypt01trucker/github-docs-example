@@ -127,7 +127,7 @@ Github extends the functioality of Mardown tables to provide more alignment and 
 
 ![Image of pip character on keyboard](assets/pipe.jpg)
 
-[Secret Window Hidden Garden](secret-window/hidden-garden)
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
   ##   Externel References
   
