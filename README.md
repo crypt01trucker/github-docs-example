@@ -42,7 +42,7 @@ puts "Factorial of 5 is #{result}"
 
 - Image of the backtick on a keyboard
   
-![backtick](https://github.com/crypt01trucker/github-docs-example/assets/36116179/7fd837ac-dd35-4b3f-a72a-3d9da3292d1e)
+![backtick](assets/backtick.png)
 
 
 - Good cloud Engineers use codeblocks for both Code and Errors that appear in the console.
@@ -52,6 +52,15 @@ test.rb:2:in `raise_error': This is a custom error message (RuntimeError)
 	from test.rb:5:in `<main>'
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
+
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop desktop or phone.
+This is not to be confused with taking a photo with your phone.
+
+
+
+
 
 ## Step 3 - use Gethub flavored mardown Task Lists
 
@@ -82,7 +91,9 @@ You can use the following Mardown format to create tables
 ```
 Github extends the functioality of Mardown tables to provide more alignment and table cell formatting options [<sup>[2]</sup>](#externel-references)
 
+- Image of pipe character on keyboard
 
+![Image of pip character on keyboard](assets/pipe.jpg)
 
   ##   Externel References
   
