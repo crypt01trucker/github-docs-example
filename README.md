@@ -129,6 +129,7 @@ Github extends the functioality of Mardown tables to provide more alignment and 
 
 [Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
+
   ##   Externel References
   
   - [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images)
