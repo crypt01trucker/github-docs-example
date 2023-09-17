@@ -85,6 +85,7 @@ In Windows and macOS, you can use keyboard shortcuts or hotkeys to capture scree
 
 4. **Shift + Command + 5 (macOS Mojave and later):** Opens the Screenshot app, which provides additional options for capturing screenshots and recording the screen.
 
+![Computers-screenshot](asset/screenshot.jpg)
 
 ## Step 3 - use Gethub flavored mardown Task Lists
 
