@@ -2,7 +2,7 @@
 
 ## Step 1 - Using Codeblocks
 
-Codeblocks in mardown make it *very easy* for tech people to **copy, paste, share** code.
+Codeblocks in Mardown make it *very easy* for tech people to **copy, paste, share** code.
 A good __Cloud Engineer__ uses Codeblocks whenever possible.
 
 Because it allows others to copy and paste their code to replicate or research issues.
@@ -53,7 +53,14 @@ test.rb:2:in `raise_error': This is a custom error message (RuntimeError)
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
 
+
 ## Step 2 - How to take screenshots
+
+When you can always provide a codeblock instead of a screenshot.
+if you need to take a screenshot make sure it not a photo from your phone.
+
+> There are certain cases where its okay to take photos with your phone. This is when you are showing something like a keyboard, which does not appear on a computer screen.
+> if it render on your computer screen it should be a screeshot.
 
 A screenshot is when you capture a part of your screen from your laptop desktop or phone.
 
@@ -85,7 +92,7 @@ In Windows and macOS, you can use keyboard shortcuts or hotkeys to capture scree
 
 4. **Shift + Command + 5 (macOS Mojave and later):** Opens the Screenshot app, which provides additional options for capturing screenshots and recording the screen.
 
-![Computers-screenshot](asset/screenshot.jpg)
+![Computers-screenshot](assets/screenshot.png)
 
 ## Step 3 - use Gethub flavored mardown Task Lists
 
