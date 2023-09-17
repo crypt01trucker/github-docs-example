@@ -56,10 +56,34 @@ test.rb:2:in `raise_error': This is a custom error message (RuntimeError)
 ## Step 2 - How to take screenshots
 
 A screenshot is when you capture a part of your screen from your laptop desktop or phone.
+
 This is not to be confused with taking a photo with your phone.
 
+## DON'T DO THIS#
 
+<img width="250px" src="assets/cellphone.jpg">
 
+## DO THIS INSTEAD#
+
+In Windows and macOS, you can use keyboard shortcuts or hotkeys to capture screenshots without the need for additional software. Here are some common screenshot shortcuts for both operating systems:
+
+**Windows:**
+
+1. **PrtScn (Print Screen) key:** Pressing the "PrtScn" key captures the entire screen and copies it to your clipboard. You can then paste it into an image editing program like Paint or Microsoft Word and save it as an image.
+
+2. **Alt + PrtScn:** Captures only the currently active window and copies it to the clipboard.
+
+3. **Windows + Shift + S (Windows 10 and later):** Opens the Snip & Sketch tool, which allows you to select a portion of the screen to capture.
+
+**macOS:**
+
+1. **Shift + Command + 3:** Captures the entire screen and saves it as a file on your desktop.
+
+2. **Shift + Command + 4:** Turns the cursor into a crosshair, allowing you to select a specific area of the screen to capture. After selecting the area, it will be saved as a file on your desktop.
+
+3. **Shift + Command + 4, then Spacebar:** After pressing Shift + Command + 4, you can press the spacebar to capture a specific window or dialog box. Click on the window you want to capture, and it will be saved as a file on your desktop.
+
+4. **Shift + Command + 5 (macOS Mojave and later):** Opens the Screenshot app, which provides additional options for capturing screenshots and recording the screen.
 
 
 ## Step 3 - use Gethub flavored mardown Task Lists
